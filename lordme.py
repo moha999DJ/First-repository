@@ -19,6 +19,7 @@ print("""
 ██████████▄▄▄▄▄▄▄██████████
 ███████████████████████████
 Welcome to DEATH ISLAND 
+      
 There are two doors in front of you 🚪 a red door and 🚪 a blue door """)
 door=str(input("Which door you want to open? "))
 if door.lower()=="blue":
